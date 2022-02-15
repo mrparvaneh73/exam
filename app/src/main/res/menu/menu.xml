@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="execute"
+        android:id="@+id/executeFragment"
+        android:icon="@drawable/ic_baseline_arrow_circle_down_24"/>
+
+    <item android:title="enqueue"
+        android:id="@+id/enqueueFragment"
+        android:icon="@drawable/ic_baseline_arrow_circle_up_24"/>
+
+    <item android:title="glide"
+        android:id="@+id/glideFragment"
+        android:icon="@drawable/ic_baseline_image_24"/>
+</menu>
